@@ -9,3 +9,5 @@ john fitzgerald r00156081
 
 clone has successfully logged on !!! 
 here are my changes
+
+owner amendment here
